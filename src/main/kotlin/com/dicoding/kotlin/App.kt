@@ -12,4 +12,7 @@ fun main() {
 
     StringDataType()
     println()
+
+    Functions()
+    println()
 }
