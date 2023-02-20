@@ -10,4 +10,6 @@ fun main() {
     CharDataType()
     println()
 
+    StringDataType()
+    println()
 }
