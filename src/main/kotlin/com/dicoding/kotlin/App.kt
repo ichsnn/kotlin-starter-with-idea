@@ -24,4 +24,7 @@ fun main() {
 
     numbers()
     println()
+
+    arrays()
+    println()
 }
