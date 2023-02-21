@@ -13,6 +13,6 @@ fun saveCallsAndElvis() {
   val textLength1 = if (text != null) text.length else 7
 
   // Non Null Asertion !!
-  val textLength2: Number? = text!!.length // ready to go ???
+  // val textLength2: Number? = text!!.length // ready to go ???
 
 }
