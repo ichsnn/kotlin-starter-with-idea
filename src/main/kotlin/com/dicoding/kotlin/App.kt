@@ -15,4 +15,7 @@ fun main() {
 
     Functions()
     println()
+
+    IfExpressions()
+    println()
 }
