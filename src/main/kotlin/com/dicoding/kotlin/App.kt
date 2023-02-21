@@ -27,4 +27,10 @@ fun main() {
 
     arrays()
     println()
+
+    nullableTypes()
+    println()
+
+    saveCallsAndElvis()
+    println()
 }
