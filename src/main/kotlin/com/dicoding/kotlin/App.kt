@@ -18,4 +18,7 @@ fun main() {
 
     IfExpressions()
     println()
+
+    booleanDataTypes()
+    println()
 }
