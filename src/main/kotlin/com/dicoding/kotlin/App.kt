@@ -21,4 +21,7 @@ fun main() {
 
     booleanDataTypes()
     println()
+
+    numbers()
+    println()
 }
